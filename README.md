@@ -2,4 +2,4 @@
 #Kulami
 An abstract strategy game.
 
-You can play it online [here](http://gotankersley.github.io/kulami).
+You can play it online [here](http://gotankersley.github.io/kulami). 
